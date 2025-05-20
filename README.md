@@ -1,5 +1,6 @@
 # presto
 presto
+java download: https://www.oracle.com/java/technologies/downloads/?er=221886#jdk24-windows
 راهنمای نصب Presto روی ویندوز بدون استفاده از Docker
 در این راهنما، شما را گام به گام برای نصب Presto روی یک سیستم ویندوزی بدون استفاده از Docker راهنمایی می‌کنم.
 
